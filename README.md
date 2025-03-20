@@ -1,16 +1,12 @@
-## Hi there 👋
+# 🐺 Hey, I'm Cane!
+- 🎬 AMV Editor | 💻 IT Student | 🖥️ PC Enthusiast
+- 🔥 Learning: GitHub, Blender, Web Dev, & Linux
+- ⚡ Fun Fact: I almost leaked my school’s LMS while learning GitHub 💀
 
-<!--
-**canefly/canefly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 My Skills
+- 🎞️ AMV Editing & Motion Graphics
+- 💻 HTML, CSS, C++, Java (Still Learning 😭)
+- 🖥️ PC Building & Hardware Enthusiast
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![Cane's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CaneHusky&show_icons=true&theme=tokyonight)
