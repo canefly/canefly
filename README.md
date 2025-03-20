@@ -9,4 +9,4 @@
 - 🖥️ PC Building & Hardware Enthusiast
 
 ## 📊 GitHub Stats
-![Cane's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CaneHusky&show_icons=true&theme=tokyonight)
+![Cane's GitHub Stats](https://github-readme-stats.vercel.app/api?username=canefly&show_icons=true&theme=tokyonight)
