@@ -1,3 +1,2 @@
-# im caaaanee
-- 🎬 AMV Editor/Freelance | 💻 IT Student | 🖥️ PC Enthusiast
-- 🎞️ Video Editor & Motion Graphics
+Heya, I'm Cane!
+IT student in infosec. I build tools for video editors and make motion graphics on the side.
